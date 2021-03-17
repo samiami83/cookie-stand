@@ -1,16 +1,4 @@
-// /*
-// <section>
-//       <h2>Seattle</h2>
-//       <ul>
-//         <li>6am: 16 cookies</li>
-//         <li>6am: 16 cookies</li>
-//         <li>6am: 16 cookies</li>
-//         <li>Total: 875 cookies</li>
-//       </ul>
-//     </section>
-//     */
-
-    const timeSlots = [
+const timeSlots = [
       '6am',
       '7am',
       '8am',
